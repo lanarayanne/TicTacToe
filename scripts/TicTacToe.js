@@ -2,7 +2,7 @@
 // import Cell from "./Cell";
 import Winner from "./Winner.js";
 import CellState from "./CellState.js";
-import Player from "./scripts/Player.js";
+import Player from "./Player.js";
 
 export default class TicTacToe {
     constructor(player) {
