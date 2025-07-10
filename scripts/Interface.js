@@ -1,7 +1,7 @@
-import Player from "./TicTacToe/Player.js";
-import Cell from "./TicTacToe/Cell.js";
-import TicTacToe from "./TicTacToe/TicTacToe.js"
-import Winner from "./TicTacToe/Winner.js";
+import Player from "/TicTacToe/Player.js";
+import Cell from "/TicTacToe/Cell.js";
+import TicTacToe from "/TicTacToe/TicTacToe.js"
+import Winner from "/TicTacToe/Winner.js";
 
 
 class Interface {
